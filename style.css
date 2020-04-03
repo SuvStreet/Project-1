@@ -21,3 +21,12 @@ div{
     border: 5px solid blue;
     text-align: center;
 }
+
+.test_text{
+    text-decoration: overline underline line-through;
+    color: blue;
+}
+
+/* #ID{
+    text-decoration: ;
+} */
